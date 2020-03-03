@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resources>
+
+  <color name="colorPrimary">#597992</color>
+
+  <color name="colorPrimaryDark">#597992</color>
+
+  <color name="colorAccent">#D81B60</color>
+
+  <color name="appbackground">#597992</color>
+
+  <color name="lightgray">#C0C5C9</color>
+
+  <color name="white">#FFFFFF</color>
+
+  <color name="blue">#2196F3</color>
+
+  <color name="black">#000000</color>
+
+  <color name="appbackground1">#324565</color>
+
+  <color name="darkgray">#707070</color>
+
+</resources>

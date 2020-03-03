@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Soom test</string>
+    <string name="hi_ahmed">Hi,Ahmed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_rec1">Realty</string>
+    <string name="home_rec2">Vehicle </string>
+    <string name="home_rec3">Service</string>
+    <string name="home_rec4">Family Needs</string>
+    <string name="home_rec5">Electronics</string>
+    <string name="home_rec6">Health &amp; Fitness</string>
+    <string name="home_rec7">Travel &amp; Trips</string>
+    <string name="home_rec8">Animals &amp; Birds</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_video">Add Video</string>
+    <string name="choose_file">Choose File</string>
+    <string name="submit">Submit</string>
+    <string name="video_source">Video source</string>
+    <string name="please_choose_an_video_source">Please choose an video source</string>
+    <string name="sub_cat">Sub_Cat</string>
+    <string name="read_more">Read More</string>
+
+    <string name="sub_rec1">Cars</string>
+    <string name="sub_rec2">Scooter </string>
+    <string name="sub_rec3">Fitness</string>
+    <string name="sub_rec4">Playing</string>
+    <string name="cars">cars</string>
+    <string name="contact_us">Contact us</string>
+    <string name="about_us">About us</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+
+    <string name="change_pssword">Change pssword</string>
+    <string name="forget_password">Forget password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="verify">verify</string>
+    <string name="enter_yout_code">Enter yout code</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="done">Done</string>
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and type industry Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into electronic</string>
+    <string name="admin_name">Admin name</string>
+    <string name="_01111111111">01111111111</string>
+    <string name="e_mail_gmail_com">E-mail@gmail.com</string>
+    <string name="sharing_app">Sharing App</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="ahmedhesham_gmail_com">ahmedhesham@gmail.com</string>
+    <string name="_6th_october_city_6october_street_building_25">6th October city - 6october Street - Building 25</string>
+    <string name="ahmed_hesham">Ahmed Hesham</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="adress">Adress</string>
+    <string name="save">Save</string>
+    <string name="car_type">car type</string>
+    <string name="details_des">the arrival of a new batch of 1-quality luxury car trims for luxury cars, fabric not waterproof for lexus, cruiser, g63, sls, gts, mercedes, rosary, colonel, just bentley coupe, bentiqa, porsche, carrera gt2 and gt2</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="add_price">Add price</string>
+    <string name="recently_ads">Recently Ads</string>
+
+</resources>
