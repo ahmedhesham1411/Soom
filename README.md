@@ -1,4 +1,4 @@
-# Auction app 
+# Auction app using Retrofit and RXJava
   Screenshots
   
 | language  | Sign up | Sign in | Home 
