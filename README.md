@@ -12,3 +12,7 @@
 | ad  | ad | forget password | verification code 
 | ------------- | ------------- | ------------- | -------------
 | ![iPhone X-XS-11 Pro – 7](https://user-images.githubusercontent.com/50178221/84969285-a5f74a80-b118-11ea-8f84-9cb217624875.png)  | ![iPhone X-XS-11 Pro – 8](https://user-images.githubusercontent.com/50178221/84969293-a7c10e00-b118-11ea-9bf3-361a3b7b283c.png)  | ![iPhone X-XS-11 Pro – 37](https://user-images.githubusercontent.com/50178221/84969335-befffb80-b118-11ea-9694-bec7a4857c1c.png) | ![iPhone X-XS-11 Pro – 38](https://user-images.githubusercontent.com/50178221/84969388-dd65f700-b118-11ea-837e-12fa2cc03aa7.png)
+
+| new password  | setting | profile | share
+| ------------- | ------------- | ------------- | -------------
+| ![iPhone X-XS-11 Pro – 39](https://user-images.githubusercontent.com/50178221/84969447-06868780-b119-11ea-90ea-5c2deb6919a4.png)  | ![iPhone X-XS-11 Pro – 30](https://user-images.githubusercontent.com/50178221/84969473-12724980-b119-11ea-937a-dfac3391f734.png)  | ![iPhone X-XS-11 Pro – 9](https://user-images.githubusercontent.com/50178221/84969556-3df53400-b119-11ea-9d11-07576e3fdf3c.png) | ![iPhone X-XS-11 Pro – 26](https://user-images.githubusercontent.com/50178221/84969509-25851980-b119-11ea-8fd1-44ff20969858.png)
